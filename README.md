@@ -12,11 +12,11 @@ Session | Software Installation Instructions
 [Databases](https://github.com/DHRI-Curriculum/databases) | [Python](sections/python.md), [Pandas](sections/pandas.md) |
 [Text-Analysis](https://github.com/DHRI-Curriculum/text-analysis) | [Python](sections/python.md), [NLTK](sections/nltk.md) |
 [Mapping](https://github.com/DHRI-Curriculum/mapping) | [QGIS](sections/qgis.md) |
-[Machine Learning](https://github.com/DHRI-Curriculum/machine-learning)| [Python](sections/python.md), [Pandas](sections/pandas.md), [NLTK](sections/nltk.md), [Sklearn](sections/sklearn.md)|
+[Machine Learning - Optional](https://github.com/DHRI-Curriculum/machine-learning)| [Python](sections/python.md), [Pandas](sections/pandas.md), [NLTK](sections/nltk.md), [Sklearn](sections/sklearn.md)|
 [HTML/CSS](https://github.com/DHRI-Curriculum/html-css) | [VScode](sections/vscode.md), [Firefox](https://www.mozilla.org/en-US/firefox/new/) |
 [Digital Ethics](https://github.com/DHRI-Curriculum/digital-ethics) |
 [Twitter API](https://github.com/DHRI-Curriculum/twitter-api) | [Python](sections/python.md), [Tweepy](sections/tweepy.md) | [Conda](sections/conda.md), [Jupyter](sections/jupyter.md)
-[Omeka](https://github.com/DHRI-Curriculum/omeka) | [Omeka](https://omeka.org/classic/download/) | [Omeka.net](https://github.com/GCDigitalFellows/omeka/blob/master/omekainstall.md)
+[Omeka - Optional](https://github.com/DHRI-Curriculum/omeka) | [Omeka - Optional](https://omeka.org/classic/download/) | [Omeka.net - Optional](https://github.com/GCDigitalFellows/omeka/blob/master/omekainstall.md)
 
 ### Additional Guides  
 
