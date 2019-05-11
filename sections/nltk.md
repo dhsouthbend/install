@@ -156,3 +156,4 @@ NN: noun, common, singular or mass
     investment slide humour falloff slick wind hyena override subhumanity
     machinist ...
 ```
+If you get an error that includes `NameError: name 'nltk' is not defined`, type `import nltk` and hit return. Then try `nltk.help.upenn_tagset('NN')` again.
