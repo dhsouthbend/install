@@ -39,7 +39,7 @@ The QGIS Python is independent of the Anaconda Python used elsewhere. You must i
 You may need to change [security & privacy settings](https://support.apple.com/en-us/HT202491) to allow app downloads from outside sources.
 
 ## Test Install
- Launch __QGIS 2.18 Desktop 2.18.20__. A new project will look like this:
+ Launch __QGIS 3.6 Desktop 3.6.0__. A new project will look like this:
 
 ![qgis installer](../images/windows/qgis/qgis09.png)
 
