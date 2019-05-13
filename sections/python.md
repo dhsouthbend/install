@@ -6,7 +6,7 @@
 * Try to open the Anaconda Prompt (On Mac, press Cmd + Space and type `Anaconda`. On Windows, press the Windows key and type Anaconda). If no option comes up, you most likely don't have it installed.
 
 ## I do have Anaconda installed on my computer
-* [Updating Anaconda to the newest version](#updating-anaconda)
+* [Updating Anaconda to the newest version](#updating-anaconda-mac-or-windows)
 
 ## I don't have Anaconda installed on my computer
 * [Installation Windows](#installation-windows)
