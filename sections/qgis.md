@@ -4,7 +4,7 @@
 
 
 ## Download
-* Download __QGIS Version 2.18__ from https://qgis.org/en/site/forusers/download.html:
+* Download __QGIS Version 3.6__ from https://qgis.org/en/site/forusers/download.html:
 
 ![list of qgis download options (version 3.6 64 bit, 3.6, 32 bit, 3.4 64 bit, 3.4 32 bit) with 3.6 64bit circled](../images/windows/qgis/qgis_update.png)
 
