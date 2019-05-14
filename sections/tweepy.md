@@ -2,7 +2,9 @@
 
 [Tweepy](http://www.tweepy.org/) is a Python library for accessing the twitter API. It is installed via the [conda](conda.md) package managment system using the conda-forge package index.
 
-## Pre-installation instructions for Mac users
+## Pre-installation instructions for Mac users (Mac0S 10.14.x)
+
+*Note: Users on MacOS 10.13.x and earlier can skip straight to "Install Tweepy" below.* 
 
 Mac users who jump straight to the instructions below are almost certain to have their install fail, particularly if they're on a more recent version of MacOS. To avoid difficulties, please take the following steps *prior* to trying to install Tweepy (many thanks to commenters on this [conda issues discussion](https://github.com/conda/conda/issues/8440), particularly [schlepuetz](https://github.com/conda/conda/issues/8440#issuecomment-482082853) and [weimeng0123](https://github.com/conda/conda/issues/8440#issuecomment-491166980)), for the suggestions that helped us solve this installation problem).
 
