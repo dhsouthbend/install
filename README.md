@@ -23,6 +23,13 @@ These are two additional guides you may reference to assist with Conda and Jupyt
 [Conda Package Management](sections/conda.md)  
 [Jupyter Notebook](sections/jupyter.md)  
 
+### Account Creations  
+_Once you have finished installing all of the necessary software please create the following accounts:_  
+- a Twitter account _([more info.](https://help.twitter.com/en/using-twitter/create-twitter-account))_
+- a GitHub account _([more info.](https://help.github.com/en/articles/signing-up-for-a-new-github-account))_  
+
+**Please provide both your GitHub and Twitter handles to one of the instructors.**  
+
 <!-- 
 ### Software Installations
 
