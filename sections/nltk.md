@@ -80,7 +80,7 @@ NLTK also provides a text based download tool.
 1. In your open Python environment, type the following commands after importing nltk
 
 ```python
-nltk.download('all', halt_on_error=False
+nltk.download('all', halt_on_error=False)
 ```
 For example, the interpreter above would now look like:
 ```python
