@@ -18,22 +18,17 @@
 
 ## Mac OS/X:
 
-1. [Download](#download)
+1. Before installing QGIS, you **must** first install Python 3.6. Use the [64-bit installer](https://www.python.org/ftp/python/3.6.8/python-3.6.8-macosx10.9.pkg) if you're using MacOS 10.9 or later, or the [64-bit/32-bit installer](https://www.python.org/ftp/python/3.6.8/python-3.6.8-macosx10.6.pkg) if you're using an earlier version of MacOS.
 
-2. When you click on the installer, you will see this page:
+2. [Download](#download)
 
-![osx file explorer showing 0. 0. Readme_Install.rtf, 1. gdal.pkg, 2. numpy.pkg, 3. matplotlib.pkg, 4. qgis.pkg, gdal extras folder, readme.rtf, License, GPL license](../images/osx/qgis.png)
+3. When you click on the installer, you will see this page (the image shows version 3.4, but the image will be nearly identical for version 3.6):
 
- You MUST install the items **IN NUMERICAL ORDER** using the provided installers:
+![osx file explorer showing QGIS installation files](../images/osx/QGIS3_4.jpg)
 
-1. GDAL
-2. NumPy
-3. Matplotlib
-4. QGIS
+ Double-click on `Install QGIS 3 LTR.pkg` to install the software.
 
-The QGIS Python is independent of the Anaconda Python used elsewhere. You must install the QGIS numpy and matplotlib, even if they are already installed in your system. If you need QGIS to work with your system Python, please follow the listed instructions and then speak to the instructor privately.
-
-3. [Test install](#test-install)
+4. [Test install](#test-install)
 
 #### Troubleshooting
 You may need to change [security & privacy settings](https://support.apple.com/en-us/HT202491) to allow app downloads from outside sources.
