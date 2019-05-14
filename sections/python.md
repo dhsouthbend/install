@@ -95,7 +95,9 @@ Open a [windows](windows_terminal.md) and type `python`. The terminal should pri
     >>> 
     ```
 
-Type `exit()` to leave python
+Type `exit()` to leave python  
+  
+_If you do not see a similar response to the one above or have some kind of error, please double check our [Issues when Installing Python issue](https://github.com/dhsouthbend/install/issues/2) to see if we have already worked out a solution to your problem. Otherwise, please contact an instructor._  
 
 ## References ##
 
@@ -166,7 +168,9 @@ Open the [OS/X](osx_terminal.md) terminal and type `python`. The terminal should
     >>> 
     ```
 
-Type `exit()` to leave python
+Type `exit()` to leave python  
+  
+_If you do not see a similar response to the one above or have some kind of error, please double check our [Issues when Installing Python issue](https://github.com/dhsouthbend/install/issues/2) to see if we have already worked out a solution to your problem. Otherwise, please contact an instructor._  
 
 ## References ##
 
